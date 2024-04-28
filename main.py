@@ -51,6 +51,10 @@ def calculate_cosine_similarity(ref_point, data_points):
     return closest_point_distance, farthest_point_distance
 
 
+def test_measure():
+    return 8
+
+
 closest_points = []
 farthest_points = []
 dimension_count = 800
