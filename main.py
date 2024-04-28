@@ -55,6 +55,14 @@ def test_measure():
     return 8
 
 
+def test_measure2():
+    return 12
+
+
+def test_measure3():
+    return 16
+
+
 closest_points = []
 farthest_points = []
 dimension_count = 800
